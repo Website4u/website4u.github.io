@@ -1,0 +1,59 @@
+body {
+        margin-top:5rem;
+        background-color: #D7C9BD;
+   }
+
+header { 
+        text-align:center;
+        margin-bottom: 4rem;
+        font-size:1.2rem;
+        font-family: "verdana", arial, sans-serif;
+        color:#b7410e;
+        }
+
+nav {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content:center;
+}
+
+
+article, hr {margin-left:4rem;
+        margin-right:4rem;
+        margin-bottom: 2rem;
+}
+
+
+img {   padding-top: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 40px;
+        border: 1px solid white;
+        width: 20em;
+}
+
+img:hover {
+        background-color:mintcream;
+        opacity: grey;
+}
+
+
+img:active {
+        background-color:lightgoldenrodyellow;
+}
+
+figcaption {
+        margin-top:-33px;
+        margin-left: 20px;
+}
+
+a {text-decoration: none;} /*hyperlinks are underlined by default, but this removes it*/
+
+
+footer {
+        text-align: center;
+        font-size: 1rem;
+        color:#383838;
+ }
+
+ 

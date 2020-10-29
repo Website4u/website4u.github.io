@@ -1,0 +1,48 @@
+html, body {font-size: 16px;}
+
+body { 
+       line-height: 1.5;
+       margin-top: 8vh;
+       margin-right:4vw;
+       margin-left:4vw;
+       background-color: #D7C9BD;
+}
+ 
+
+header {color:#b7410e;
+       font-size:1.2rem;
+       margin-bottom: 4rem;
+}
+
+body.sold {
+       opacity: 0.4;
+} 
+
+article {font-size: 1.3rem;
+         font-family: "Times New Roman", arial, sans-serif;
+}
+
+q {
+   margin-left: 2rem;    
+}
+
+a {text-decoration: none;}
+
+
+.bold {font-weight: bold;
+       font-size: 1.4rem;
+}
+
+.italic {font-style: italic;}
+
+#price {
+       font-size:2rem; 
+       color:#FF0000;
+}
+
+footer {
+       text-align: center;
+       font-size: 1rem;
+       color:#383838;
+}
+
